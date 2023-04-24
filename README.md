@@ -27,4 +27,6 @@
 
 * 풀스크린갤러리 [index.html](jQuery/%ED%92%80%EC%8A%A4%ED%81%AC%EB%A6%B0%EA%B0%A4%EB%9F%AC%EB%A6%AC/index.html)
 
+* 멀티체크박스 [multi_checkbox.html](jQuery/%EB%A9%80%ED%8B%B0%EC%B2%B4%ED%81%AC%EB%B0%95%EC%8A%A4/multi_checkbox.html)
+
 
