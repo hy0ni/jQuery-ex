@@ -10,7 +10,7 @@
 </head>
 
 <body>
-  <div id="tab1">
+  <div id="tab">
     <ul>
       <li class="on"><a href="#">button1</a></li>
       <li><a href="#">button2</a></li>
@@ -26,9 +26,9 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
   <script>
     $(function () {
-      $('#tab1 > ul > li').on('click', function () {
+      $('#tab > ul > li').on('click', function () {
         
-        $('#tab1 > ul > li').removeClass('on');
+        $('#tab > ul > li').removeClass('on');
         $(this).addClass('on');
 
         let idx = $(this).index();
